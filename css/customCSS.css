@@ -1,0 +1,9 @@
+h1 {
+	font-family: "Futura", Futura;
+}
+
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+}
